@@ -9,4 +9,4 @@ Python Programme to acces and update elements in an excel file
         
     The programe recieves a created file with the extention .xlsx access its data and overide it as explained on each step down
 '''
-Attached to the this project is a sample of the varouis files that was been manipulated  to create and update emails.
+Attached to the folder Updated_Email are the  files used (xlxs, csv and the source code) and  manipulated  to create and update emails.
